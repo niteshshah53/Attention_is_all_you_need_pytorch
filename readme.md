@@ -227,4 +227,4 @@ epoch | train_loss | valid_loss | seq2seq_acc | bleu | time
 
 ------
 ## Creator
-[<img target="_blank" src="https://media-exp1.licdn.com/dms/image/C4D03AQG-6F3HHlCTVw/profile-displayphoto-shrink_200_200/0?e=1599091200&v=beta&t=WcZLox9lzVQqIDJ2-5DsEhNFvEE1zrZcvkmcepJ9QH8" width=150>](https://skumar-djangoblog.herokuapp.com/)
+<h2>Nitesh Kumar Shah</h2>
